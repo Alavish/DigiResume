@@ -126,6 +126,12 @@
         "category": "DBMS Bookstore Queries created using embedded SQL and LINQ",
         "image": "dbmsSQLserver.jpeg",
         "url": "https://github.com/Alavish/DBMSBookstore"
+      },
+      {
+        "title": "Client Server Chatroom (Networks)",
+        "category": "Chatroom with server and client,using sockets. ",
+        "image": "serverClientChatroom.jpeg",
+        "url": "https://github.com/Alavish/clientServerChat"
       }
     ]
   }
