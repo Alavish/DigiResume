@@ -1,161 +1,113 @@
 {
   "main": {
-    "name": "Anthony",
+    "name": "Anthony Christopher",
     "occupation": "Student",
-    "description": "Dedicated and passionate, interested in computer science since a very young age with 6 years of working experience",
-    "image": "IG_Leo.jpg",
-    "bio": "Dedicated and passionate, interested in computer science since a very young age with 6 years of working experience. Able to develop in multiple areas, great versatility and expertise in several scopes, such as web development, teaching and customer services.\nSocial and logical abilities that help for troubleshooting, always ready to learn something new and willing to sort out adversities even under a lot of pressure. All of this adds up to being a role model, always delivering the best and encouraging everyone to do the same.",
+    "description": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. ",
+    "image": "headShotPic.jpeg",
+    "bio": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. Im skilled in FullStack development with great versatility and expertise in several scopes, such as web development, teaching, entrepeuneurship,marketing and customer services.\nI take pride in my communication skills and how it aids me and others in the workplace. I am always ready to learn something new and willing to respond to adversities even under a lot of pressure. Leadership is key, always trying to deliver the best, and encourage everyone to do the same.\n Through football at the collegiate and highschool level I've developed a sensation for leadership and perservearing, I am a first team all conference athlete and take alot of proud in hard work.",
     "contactmessage": "Contact me!",
-    "email": "leosalazar97@gmail.com",
-    "phone": "+52 871 138 0986",
+    "email": "achristopher6621@gmail.com",
+    "phone": "+1 253-330-4328",
     "address": {
-      "street": "Paseo Del Agua 46",
-      "city": "Torreon",
-      "state": "COA",
-      "zip": "27058"
+      "street": "North Spokane",
+      "city": "Spokane/Seattle",
+      "state": "WA",
+      "zip": "99218"
     },
     "website": "https://resume.scleoo.vercel.app/",
-    "resumedownload": "images/scleoresume.pdf",
+    "resumedownload": "images/anthonysResume.pdf",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/scleo97/",
+        "url": "https://www.linkedin.com/in/anthony-christopher-2b59a3186/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/scleo97/",
+        "url": "https://www.instagram.com/lavtech_/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/SCLeoo",
+        "url": "https://github.com/Alavish",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "This are some of my skills!",
+    "skillmessage": "Here are a few of my skills",
     "education": [
       {
-        "school": "Instituto Tecnológico de la Laguna",
-        "degree": "Degree in Computer Science",
-        "graduated": "Will finish on 2021",
-        "description": "Actual score of 9.0"
+        "school": "Whitworth Univeristy",
+        "degree": "Degree in Computer Science and Business",
+        "graduated": "Expected Graduation Year: 2022",
+        "description": "GPA: 3.04"
       }
     ],
     "work": [
       {
-        "company": "Free Lancer for PEÑOLES",
-        "title": "VR & AR ENGINEER",
-        "years": "Jan 2019 - Sep 2020",
-        "description": "Creating more interactive content for one of the most important museums in Torreón, Coahuila. Promoting the use of new technologies such as VR & AR for delivering great experiences as you learn having fun."
+        "company": "Target",
+        "title": "Tech",
+        "years": "May 2020 - August 2021",
+        "description": "At Target in north Spokane, my responsibilities included cell activation, 5am truck unloads, customer service/casheering and also working with online orders. I learned alot about business operation and customer service"
       },
       {
-        "company": "INTARSIA",
-        "title": "WEB DEVELOPER",
-        "years": "Sep 2019 - Dec 2019",
-        "description": "Angular and .NET development for a school management system, creating APIs and WebServices that connects to an SQLDatabase. Testing and improving every component in the system delivering great performance."
+        "company": "Whitworth Dornsife Department",
+        "title": "Application/Web Developer",
+        "years": "May 2021 - Present",
+        "description": "Working for a client on a website, I use many different tools such as REACT,NODE,DJANGO and other front/back end developer tools."
       },
       {
-        "company": "FGC National Selection",
-        "title": "ROBOTICS MENTOR",
-        "years": "Jun 2019 - Oct 2019",
-        "description": "In charge of a group of 5 high school students who are the mexican selection for an international competition held in Dubai, helping them with programming manners as well as consolidating an effective team work."
+        "company": "Whitworth Computer Science Department",
+        "title": "Grader",
+        "years": "Sept 2021 - Present",
+        "description": "In charge of a group of 1 CS2 class and their grades on projects/homeworks"
       },
       {
-        "company": "FTC Team Cerbotics 15600",
-        "title": "ROBOTICS COACH",
-        "years": "Sep 2018 - May 2019",
-        "description": "Coach of a rookie team formed by 15 9th graders which won the Control Award and National Winner Award, recognized for being outstanding in automatization manners for a competing robot and achieving the Championship Pass."
-      },
-      {
-        "company": "FLL Team Cerbotics Lego",
-        "title": "LEGO COACH",
-        "years": "Sep 2018 - May 2019",
-        "description": "Mentor of a small amount of kids, all of them with ages from 12 to 14. Teaching them how to make investigations and to be assertive on the resolution of problems."
-      },
-      {
-        "company": "FRC Team Cerbotics 4400",
-        "title": "ROBOTICS MENTOR",
-        "years": "Jan 2017 - May 2019",
-        "description": "Teaching classes of basic programming with LabView and Java for the control and automatization of mechanisms for the Chairman's Award Winner team in the FIRST Robotics Competition. With the duty to teach all the learning lived as a founder member of the team in 2012. Participated in the Championship for 3 consecutive years since 2017."
-      },
-      {
-        "company": "Curiosity Educación",
-        "title": "VIDEOGAME DEVELOPER",
-        "years": "Jul 2016 - Dec 2016",
-        "description": "Engineering educational videogames for a web platform using only HTML5, CSS3 and Javascript, guaranteeing the best performance online as the developed games use very little resources."
-      },
-      {
-        "company": "COMPAX",
-        "title": "WEB DEVELOPER",
-        "years": "July 2015 - Dec 2015",
-        "description": "In charge of the development of entertaining apps for a web platform using Javascript, HTML5 and CSS3 through the second semester of 2015. In charge of the management and development of an administrative system for the teachers and financial manners of a school. Also developed a Java Desktop Application for generating dynamic web pages."
-      },
-      {
-        "company": "CAD House",
-        "title": "WEB DESIGNER",
-        "years": "Jun 2014 - Aug 2014",
-        "description": "Designed a web site using Adobe Muse planning the structure of the page being ready to escalate and easy to use for the client and adminitrator, as well as defining the site identity and colors."
-      },
-      {
-        "company": "COMPAX",
-        "title": "WEB DEVELOPER",
-        "years": "Jun 2013 - Aug 2013",
-        "description": "Developed a live chat for a web site and used jQuery and CSS for styling and animating the content of an educational platform which was used by the SEP (Secretaría de Educación Pública) on Yucatán."
+        "company": "Kripsy Kreme",
+        "title": "General Sales",
+        "years": "May 2016 - October 2017",
+        "description": "Did alot of drive through and customer service related responsibilities, also worked with spreadsheets and helped count cashier tills at end of the night. I learned alot about opening and closing as well as customer service"
       }
     ],
     "skills": [
       {
-        "name": "HTML5",
-        "level": "100%"
+        "name": "HTML",
+        "level": "80%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "70%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "PHP",
-        "level": "55%"
+        "name": "C++",
+        "level": "80%"
       },
       {
         "name": "Javascript",
-        "level": "80%"
+        "level": "40%"
       },
       {
         "name": "Bootstrap",
-        "level": "80%"
+        "level": "50%"
+      },
+      {
+        "name": "REACT",
+        "level": "35%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "My own Resume with Bootstrap",
-        "category": "Bootstrap based webpage for online Resume",
-        "image": "bootstrapcv.jpg",
+        "title": "Digital Resume with Bootstrap",
+        "category": "Digital resume based in bootstrap",
+        "image": "projectOneResume.jpg",
         "url": "https://cv.scleoo.vercel.app"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "+52 (871) 158-2039 · Colegio Cervantes Jr High School Principle",
-        "user": "Max Cuevas"
-      },
-      {
-        "text": "+52 (871) 462-4931 · Intarsia",
-        "user": "Aldo Sandoval"
-      },
-      {
-        "text": "+52 (871) 266-0836 · College Professor",
-        "user": "Ricardo de Ávila"
       }
     ]
   }
