@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Anthony Christopher",
+    "occupation": "Student",
+    "description": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. ",
+    "image": "headShotPic.jpeg",
+    "bio": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. Im skilled in FullStack development with great versatility and expertise in several scopes, such as web development, teaching, entrepeuneurship,marketing and customer services.\nI take pride in my communication skills and how it aids me and others in the workplace. I am always ready to learn something new and willing to respond to adversities even under a lot of pressure. Leadership is key, always trying to deliver the best, and encourage everyone to do the same.\n Through football at the collegiate and highschool level I've developed a sensation for leadership and perservearing, I am a first team all conference athlete and take alot of proud in hard work.",
+    "contactmessage": "Contact me!",
+    "email": "achristopher6621@gmail.com",
+    "phone": "+1 253-330-4328",
+    "address": {
+      "street": "North Spokane",
+      "city": "Spokane/Seattle",
+      "state": "WA",
+      "zip": "99218"
+    },
+    "website": "https://resume.scleoo.vercel.app/",
+    "resumedownload": "images/anthonysResume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anthony-christopher-2b59a3186/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lavtech_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Alavish",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are a few of my skills",
+    "education": [
+      {
+        "school": "Whitworth Univeristy",
+        "degree": "Degree in Computer Science and Business",
+        "graduated": "Expected Graduation Year: 2022",
+        "description": "GPA: 3.04"
+      }
+    ],
+    "work": [
+      {
+        "company": "Target",
+        "title": "Tech",
+        "years": "May 2020 - August 2021",
+        "description": "At Target in north Spokane, my responsibilities included cell activation, 5am truck unloads, customer service/casheering and also working with online orders. I learned alot about business operation and customer service"
+      },
+      {
+        "company": "Whitworth Dornsife Department",
+        "title": "Application/Web Developer",
+        "years": "May 2021 - Present",
+        "description": "Working for a client on a website, I use many different tools such as REACT,NODE,DJANGO and other front/back end developer tools."
+      },
+      {
+        "company": "Whitworth Computer Science Department",
+        "title": "Grader",
+        "years": "Sept 2021 - Present",
+        "description": "In charge of a group of 1 CS2 class and their grades on projects/homeworks"
+      },
+      {
+        "company": "Kripsy Kreme",
+        "title": "General Sales",
+        "years": "May 2016 - October 2017",
+        "description": "Did alot of drive through and customer service related responsibilities, also worked with spreadsheets and helped count cashier tills at end of the night. I learned alot about opening and closing as well as customer service"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "40%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "50%"
+      },
+      {
+        "name": "REACT",
+        "level": "35%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Digital Resume with Bootstrap",
+        "category": "Digital resume based in bootstrap",
+        "image": "projectOneResume.jpg",
+        "url": "https://cv.scleoo.vercel.app"
+      }
+    ]
+  }
+}

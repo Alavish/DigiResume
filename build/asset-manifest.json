@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SCLeoo/resumestatic/css/main.5facb584.chunk.css",
+    "main.js": "/SCLeoo/resumestatic/js/main.18996e48.chunk.js",
+    "main.js.map": "/SCLeoo/resumestatic/js/main.18996e48.chunk.js.map",
+    "runtime-main.js": "/SCLeoo/resumestatic/js/runtime-main.ba429645.js",
+    "runtime-main.js.map": "/SCLeoo/resumestatic/js/runtime-main.ba429645.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/SCLeoo/resumestatic/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/SCLeoo/resumestatic/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/SCLeoo/resumeindex.html",
+    "precache-manifest.5691646dadb5e231637af6f9ea85bbee.js": "/SCLeoo/resumeprecache-manifest.5691646dadb5e231637af6f9ea85bbee.js",
+    "service-worker.js": "/SCLeoo/resumeservice-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/SCLeoo/resumestatic/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/SCLeoo/resumestatic/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba429645.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.18996e48.chunk.js"
+  ]
+}
