@@ -107,7 +107,25 @@
         "title": "Digital Resume with Bootstrap",
         "category": "Digital resume based in bootstrap",
         "image": "projectOneResume.jpg",
-        "url": "https://cv.scleoo.vercel.app"
+        "url": "https://achristopherdigi.netlify.app/"
+      },
+      {
+        "title": "Spokane Valley Community Advocates Webstie",
+        "category": "Company site created for SVCA of Spokane",
+        "image": "svcaProjectPic.jpg",
+        "url": "https://sv-communityadvocates.org/"
+      },
+      {
+        "title": "Cesar Cipher Encryption Assembler",
+        "category": "Cesar Cipher string encryption using assembler x86",
+        "image": "cesarCipherProject.jpeg",
+        "url": "https://github.com/Alavish/CesarCipherEncryption"
+      },
+      {
+        "title": "DBMS Bookstore Embedded SQL",
+        "category": "DBMS Bookstore Queries created using embedded SQL and LINQ",
+        "image": "dbmsSQLserver.jpeg",
+        "url": "https://github.com/Alavish/DBMSBookstore"
       }
     ]
   }
