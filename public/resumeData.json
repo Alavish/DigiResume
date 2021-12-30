@@ -130,7 +130,7 @@
       {
         "title": "Client Server Chatroom (Networks)",
         "category": "Chatroom with server and client,using sockets. ",
-        "image": "serverClientChatroom.jpeg",
+        "image": "ServerClientChatroom.jpeg",
         "url": "https://github.com/Alavish/clientServerChat"
       }
     ]
