@@ -46,6 +46,12 @@
     ],
     "work": [
       {
+        "company": "Drip7",
+        "title": "Software Engineering Intern",
+        "years": "Janaury 2022 - Present",
+        "description": "Working in a team of 5 to help ship the version 2 program of the drip7 web application."
+      },
+      {
         "company": "Target",
         "title": "Tech",
         "years": "May 2020 - August 2021",
@@ -64,7 +70,7 @@
         "description": "In charge of a group of 1 CS2 class and their grades on projects/homeworks"
       },
       {
-        "company": "Kripsy Kreme",
+        "company": "Krispy Kreme",
         "title": "General Sales",
         "years": "May 2016 - October 2017",
         "description": "Did alot of drive through and customer service related responsibilities, also worked with spreadsheets and helped count cashier tills at end of the night. I learned alot about opening and closing as well as customer service"
