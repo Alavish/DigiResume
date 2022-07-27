@@ -14,7 +14,7 @@
       "state": "WA",
       "zip": "99218"
     },
-    "website": "https://resume.scleoo.vercel.app/",
+    "website": "https://www.thats.alavish.com/",
     "resumedownload": "images/anthonysResume.pdf",
     "social": [
       {
@@ -45,6 +45,12 @@
       }
     ],
     "work": [
+      {
+        "company": "14four",
+        "title": "Fullstack Developer/Project Management Intern",
+        "years": "May 2022 - current",
+        "description": "Did fullstack development, worked with several big name companies such as Nike,Coke and Gatorade. Mainly focused on creating web components in nuxt/vue. Created several pages and also learned how to manuveur through a normal work day as a project manager."
+      },
       {
         "company": "Drip7",
         "title": "Software Engineering Intern",
