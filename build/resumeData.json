@@ -41,10 +41,16 @@
         "school": "Whitworth Univeristy",
         "degree": "Degree in Computer Science and Business",
         "graduated": "Expected Graduation Year: 2022",
-        "description": "GPA: 3.04"
+        "description": ""
       }
     ],
     "work": [
+      {
+        "company": "Drip7",
+        "title": "Software Engineering Intern",
+        "years": "Janaury 2022 - Present",
+        "description": "Working in a team of 5 to help ship the version 2 program of the drip7 web application."
+      },
       {
         "company": "Target",
         "title": "Tech",
@@ -64,7 +70,7 @@
         "description": "In charge of a group of 1 CS2 class and their grades on projects/homeworks"
       },
       {
-        "company": "Kripsy Kreme",
+        "company": "Krispy Kreme",
         "title": "General Sales",
         "years": "May 2016 - October 2017",
         "description": "Did alot of drive through and customer service related responsibilities, also worked with spreadsheets and helped count cashier tills at end of the night. I learned alot about opening and closing as well as customer service"
@@ -106,8 +112,32 @@
       {
         "title": "Digital Resume with Bootstrap",
         "category": "Digital resume based in bootstrap",
-        "image": "projectOneResume.jpg",
-        "url": "https://cv.scleoo.vercel.app"
+        "image": "images/portfolio/projectOneResume.jpg",
+        "url": "https://achristopherdigi.netlify.app/"
+      },
+      {
+        "title": "Spokane Valley Community Advocates Webstie",
+        "category": "Company site created for SVCA of Spokane",
+        "image": "svcaProjectPic.jpg",
+        "url": "https://sv-communityadvocates.org/"
+      },
+      {
+        "title": "Cesar Cipher Encryption Assembler",
+        "category": "Cesar Cipher string encryption using assembler x86",
+        "image": "cesarCipherProject.jpeg",
+        "url": "https://github.com/Alavish/CesarCipherEncryption"
+      },
+      {
+        "title": "DBMS Bookstore Embedded SQL",
+        "category": "DBMS Bookstore Queries created using embedded SQL and LINQ",
+        "image": "dbmsSQLserver.jpeg",
+        "url": "https://github.com/Alavish/DBMSBookstore"
+      },
+      {
+        "title": "Client Server Chatroom (Networks)",
+        "category": "Chatroom with server and client,using sockets. ",
+        "image": "ServerClientChatroom.jpeg",
+        "url": "https://github.com/Alavish/clientServerChat"
       }
     ]
   }
