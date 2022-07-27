@@ -49,37 +49,43 @@
         "company": "14four",
         "title": "Fullstack Developer/Project Management Intern",
         "years": "May 2022 - current",
-        "description": "Did fullstack development, worked with several big name companies such as Nike,Coke and Gatorade. Mainly focused on creating web components in nuxt/vue. Created several pages and also learned how to manuveur through a normal work day as a project manager."
+        "description": "Did fullstack development, worked with several big name companies such as Nike,Coke and Gatorade. Mainly focused on creating web components in nuxt/vue. Created several pages and also learned how to manuveur through a normal work day as a project manager.",
+        "logo":"14fourlogo.jpeg"
       },
       {
         "company": "Drip7",
         "title": "Software Engineering Intern",
         "years": "Janaury 2022 - Present",
-        "description": "Working in a team of 5 to help ship the version 2 program of the drip7 web application."
+        "description": "Working in a team of 5 to help ship the version 2 program of the drip7 web application.",
+        "logo":"drip7.jpeg"
       },
       {
         "company": "Target",
         "title": "Tech",
         "years": "May 2020 - August 2021",
-        "description": "At Target in north Spokane, my responsibilities included cell activation, 5am truck unloads, customer service/casheering and also working with online orders. I learned alot about business operation and customer service"
+        "description": "At Target in north Spokane, my responsibilities included cell activation, 5am truck unloads, customer service/casheering and also working with online orders. I learned alot about business operation and customer service",
+        "logo":"/images/targetlogo.jpeg"
       },
       {
         "company": "Whitworth Dornsife Department",
         "title": "Application/Web Developer",
         "years": "May 2021 - Present",
-        "description": "Working for a client on a website, I use many different tools such as REACT,NODE,DJANGO and other front/back end developer tools."
+        "description": "Working for a client on a website, I use many different tools such as REACT,NODE,DJANGO and other front/back end developer tools.",
+        "logo":"public/images/whitworthlogo.png"
       },
       {
         "company": "Whitworth Computer Science Department",
         "title": "Grader",
         "years": "Sept 2021 - Present",
-        "description": "In charge of a group of 1 CS2 class and their grades on projects/homeworks"
+        "description": "In charge of a group of 1 CS2 class and their grades on projects/homeworks",
+        "logo":"whitworthlogo.png"
       },
       {
         "company": "Krispy Kreme",
         "title": "General Sales",
         "years": "May 2016 - October 2017",
-        "description": "Did alot of drive through and customer service related responsibilities, also worked with spreadsheets and helped count cashier tills at end of the night. I learned alot about opening and closing as well as customer service"
+        "description": "Did alot of drive through and customer service related responsibilities, also worked with spreadsheets and helped count cashier tills at end of the night. I learned alot about opening and closing as well as customer service",
+        "logo": "krispykremelogo.png"
       }
     ],
     "skills": [
