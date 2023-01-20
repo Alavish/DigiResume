@@ -58,10 +58,12 @@ time, mark, audio, video {
    background: transparent;
 }
 
+
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section {
    display: block;
 }
+
 
 audio,
 canvas,
@@ -452,7 +454,6 @@ img {
    max-width: 100%;
    height: auto;
 }
-
 img.logo {
    max-width: 20%;
    height: auto;

@@ -16,6 +16,10 @@ class Resume extends Component {
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <p>{work.description}</p>
             <img class = "logo" src = {work.logo}></img>
+            <br></br>
+            <br></br>
+            <br></br>
+            <hr></hr>
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){

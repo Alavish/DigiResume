@@ -2,11 +2,11 @@
   "main": {
     "name": "Anthony Christopher",
     "occupation": "Student",
-    "description": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. ",
+    "description": "Process oriented, trying to be the better than I was yesterday. ",
     "image": "headShotPic.jpeg",
-    "bio": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. Im skilled in FullStack development with great versatility and expertise in several scopes, such as web development, teaching, entrepeuneurship,marketing and customer services.\nI take pride in my communication skills and how it aids me and others in the workplace. I am always ready to learn something new and willing to respond to adversities even under a lot of pressure. Leadership is key, always trying to deliver the best, and encourage everyone to do the same.\n Through football at the collegiate and highschool level I've developed a sensation for leadership and perservearing, I am a first team all conference athlete and take alot of proud in hard work.",
+    "bio": "I am a December 2022 graduate from Whitworth University with a degree in computer science and business. As a college student athlete (football) I was and still am extremely motivated, competitive, and intentional. I’m currently looking for full time positions or other opportunities. I take pride in hard work and the process; I really hope to bring just as much if not more to an organization as it brings to me.",
     "contactmessage": "Contact me!",
-    "email": "achristopher6621@gmail.com",
+    "email": "lavtech66@gmail.com",
     "phone": "+1 253-330-4328",
     "address": {
       "street": "North Spokane",
@@ -14,7 +14,7 @@
       "state": "WA",
       "zip": "99218"
     },
-    "website": "https://www.thats.alavish.com/",
+    "website": "https://www.thatsalavish.com/",
     "resumedownload": "images/anthonysResume.pdf",
     "social": [
       {
@@ -50,42 +50,42 @@
         "title": "Fullstack Developer/Project Management Intern",
         "years": "May 2022 - current",
         "description": "Did fullstack development, worked with several big name companies such as Nike,Coke and Gatorade. Mainly focused on creating web components in nuxt/vue. Created several pages and also learned how to manuveur through a normal work day as a project manager.",
-        "logo":"14fourlogo.jpeg"
+        "logo":"images/14fourlogo.jpeg"
       },
       {
         "company": "Drip7",
         "title": "Software Engineering Intern",
         "years": "Janaury 2022 - Present",
         "description": "Working in a team of 5 to help ship the version 2 program of the drip7 web application.",
-        "logo":"drip7.jpeg"
+        "logo":"images/drip7.jpeg"
       },
       {
         "company": "Target",
         "title": "Tech",
         "years": "May 2020 - August 2021",
         "description": "At Target in north Spokane, my responsibilities included cell activation, 5am truck unloads, customer service/casheering and also working with online orders. I learned alot about business operation and customer service",
-        "logo":"/images/targetlogo.jpeg"
+        "logo":"images/targetlogo.jpeg"
       },
       {
         "company": "Whitworth Dornsife Department",
         "title": "Application/Web Developer",
         "years": "May 2021 - Present",
         "description": "Working for a client on a website, I use many different tools such as REACT,NODE,DJANGO and other front/back end developer tools.",
-        "logo":"public/images/whitworthlogo.png"
+        "logo":"images/whitworthlogo.png"
       },
       {
         "company": "Whitworth Computer Science Department",
         "title": "Grader",
         "years": "Sept 2021 - Present",
-        "description": "In charge of a group of 1 CS2 class and their grades on projects/homeworks",
-        "logo":"whitworthlogo.png"
+        "description": "Computer science department grader for CS1/CS2 class homework and exams.",
+        "logo":"images/whitworthlogo.png"
       },
       {
         "company": "Krispy Kreme",
         "title": "General Sales",
         "years": "May 2016 - October 2017",
-        "description": "Did alot of drive through and customer service related responsibilities, also worked with spreadsheets and helped count cashier tills at end of the night. I learned alot about opening and closing as well as customer service",
-        "logo": "krispykremelogo.png"
+        "description": "Developed skills in customer service, reported daily earnings in spreadsheet, developed skills in sales, worked in a fast pace environment",
+        "logo": "images/krispykremelogo.png"
       }
     ],
     "skills": [
@@ -124,14 +124,14 @@
       {
         "title": "Digital Resume with Bootstrap",
         "category": "Digital resume based in bootstrap",
-        "image": "images/portfolio/projectOneResume.jpg",
+        "image": "projectOneResume.jpg",
         "url": "https://achristopherdigi.netlify.app/"
       },
       {
         "title": "Spokane Valley Community Advocates Webstie",
         "category": "Company site created for SVCA of Spokane",
         "image": "svcaProjectPic.jpg",
-        "url": "https://sv-communityadvocates.org/"
+        "url": "https://s-v-c-a.org/"
       },
       {
         "title": "Cesar Cipher Encryption Assembler",
@@ -150,6 +150,12 @@
         "category": "Chatroom with server and client,using sockets. ",
         "image": "ServerClientChatroom.jpeg",
         "url": "https://github.com/Alavish/clientServerChat"
+      },
+      {
+        "title": "Gatorade Coming Soon Page",
+        "category": "Coming soon page for Gatorade through a marketing agnecy ",
+        "image": "GatoradeComingSoon.png",
+        "url": "https://github.com/Alavish/"
       }
     ]
   }
