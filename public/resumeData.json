@@ -15,7 +15,7 @@
       "zip": "99218"
     },
     "website": "https://www.thatsalavish.com/",
-    "resumedownload": "images/anthonysResume.pdf",
+    "resumedownload": "images/AnthonyChristopherResume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -35,7 +35,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here are a few of my skills",
+    "skillmessage": "Below are my skills",
     "education": [
       {
         "school": "Whitworth Univeristy",
@@ -48,54 +48,54 @@
       {
         "company": "14four",
         "title": "Fullstack Developer/Project Management Intern",
-        "years": "May 2022 - current",
-        "description": "Communicated with a team of 20+, Shipped websites/web ads from the bottom up, Worked in React, GSAP, JavaScript, and front-end frameworks, Created 3 web banner ads with animations, Created websites for big companies such as Nike, Gatorade, and Rock-star., Attended daily morning  meetings, Staged websites and web banners",
+        "years": "May 2022 - August 2022",
+        "description": "Communicated with a team of 20+, shipped websites/web ads from the bottom up, worked in React, GSAP, JavaScript, and front-end frameworks. Created 3 web banner ads with animations, created websites for big companies such as Nike, Gatorade, and Rock-star. Attended daily morning meetings, staged websites and web banners.",
         "logo":"images/14fourlogo.jpeg"
       },
       {
         "company": "Drip7",
         "title": "Software Engineering Intern",
-        "years": "Janaury 2022 - Present",
-        "description": "Tested the web application, finding bugs and ways to improve the app.,Communicating with a team of 3 developers,Worked in JavaScript, React, and basic front-end languages.,Shipped a V2 of a web application,Communicated with clients for specifications • Quality Assurance,Created popups.",
+        "years": "Janaury 2022 - May 2022",
+        "description": "Tested the web application, found bugs and ways to improve the application, communicated with a team of 3 developers. Worked in JavaScript, React, and basic front-end languages. Shipped a V2 of a web application, communicated with clients for specifications, carried out quality assurance testing, created pop ups for the web application.",
         "logo":"images/drip7.jpeg"
       },
       {
         "company": "Target",
         "title": "Tech",
         "years": "May 2020 - August 2021",
-        "description": "At Target in north Spokane, my responsibilities included cell activation, 5am truck unloads, customer service/casheering and also working with online orders. I learned alot about business operation and customer service",
+        "description": "Cellular device activation, 5am truck unloads, customer service,casheering, processing online orders.",
         "logo":"images/targetlogo.jpeg"
       },
       {
         "company": "Whitworth Dornsife Department",
         "title": "Application/Web Developer",
-        "years": "May 2021 - Present",
-        "description": "Developed a website for a local nonprofit in the community from the ground up,Worked in React, JS, SQL, Django,Communicated weekly with clients,Sending emails,Created graphics for the company,Marketing through facebook.",
+        "years": "May 2021 - January 2022",
+        "description": "Developed a website for a local nonprofit in the community from the ground up, worked in React, JS, SQL, Django, communicated weekly with clients sending emails,creating graphics and doing marketing through facebook.",
         "logo":"images/whitworthlogo.png"
       },
       {
         "company": "Whitworth Computer Science Department",
         "title": "Grader",
-        "years": "Sept 2021 - Present",
-        "description": "Computer science department grader for CS1/CS2 class homework and exams.",
+        "years": "Sept 2021 - May 2022",
+        "description": "Whitworth University computer science and math department grader for CS1/CS2 class homework and exams.",
         "logo":"images/whitworthlogo.png"
       },
       {
         "company": "Krispy Kreme",
         "title": "General Sales",
         "years": "May 2016 - October 2017",
-        "description": "Developed skills in customer service, reported daily earnings in spreadsheet, developed skills in sales, worked in a fast pace environment ",
+        "description": "Developed skills in customer service, reported daily earnings in spreadsheet, developed skills in sales, worked in a fast pace environment.",
         "logo": "images/krispykremelogo.png"
       }
     ],
     "skills": [
       {
-        "name": "HTML",
+        "name": "HTML/CSS",
         "level": "80%"
       },
       {
-        "name": "CSS",
-        "level": "70%"
+        "name": "Leadership",
+        "level": "85%"
       },
       {
         "name": "Git",
@@ -107,15 +107,15 @@
       },
       {
         "name": "Javascript",
-        "level": "40%"
+        "level": "60%"
       },
       {
         "name": "Bootstrap",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "REACT",
-        "level": "35%"
+        "level": "55%"
       }
     ]
   },
