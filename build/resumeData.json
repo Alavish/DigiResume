@@ -4,7 +4,7 @@
     "occupation": "Student",
     "description": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. ",
     "image": "headShotPic.jpeg",
-    "bio": "I am a December 2022 graduate from Whitworth University with a degree in computer science and business. As a college student athlete (football) I was and still am extremely motivated, competitive, and intentional. I’m currently looking for full time positions or other opportunities. I take pride in hard work and the process; I really hope to bring just as much if not more to an organization as it brings to me.",
+    "bio": "I am a graduate from Whitworth University with a degree in computer science and business. As a ex college student athlete (football) I was and still am extremely motivated, competitive, and intentional. I’m currently employed at 14Four doing digital project management and software development at request. I take pride in hard work and the process; I really hope to bring just as much if not more to an organization as it brings to me.",
     "contactmessage": "Contact me!",
     "email": "lavtech66@gmail.com",
     "phone": "+1 253-330-4328",
@@ -46,7 +46,14 @@
     ],
     "work": [
       {
-        "company": "14four",
+        "company": "14Four",
+        "title": "Digital Project Manager",
+        "years": "May 2022 - August 2022",
+        "description": "Managing digital projects with companies like Nike, Meta, Gatorade, Dick's, Monster Energy, and more. Scheduled meetings with clients, Created scopes of work for large clients, Sales, Developed AI-related projects to increase 14Four brand recognition ",
+        "logo":"images/14fourlogo.jpeg"
+      },
+      {
+        "company": "14Four",
         "title": "Fullstack Developer/Project Management Intern",
         "years": "May 2022 - August 2022",
         "description": "Communicated with a team of 20+, shipped websites/web ads from the bottom up, worked in React, GSAP, JavaScript, and front-end frameworks. Created 3 web banner ads with animations, created websites for big companies such as Nike, Gatorade, and Rock-star. Attended daily morning meetings, staged websites and web banners.",
