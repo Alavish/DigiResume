@@ -129,6 +129,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "'One of One Sant' Shopify Site",
+        "category": "Shopify,Ecommerce",
+        "image": "shopifysite.png",
+        "url": "https://oneofonesant.com"
+      },
+      {
         "title": "Digital Resume with Bootstrap",
         "category": "Digital resume based in bootstrap",
         "image": "projectOneResume.jpg",
