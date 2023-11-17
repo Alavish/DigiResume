@@ -15,6 +15,7 @@ class Resume extends Component {
         {work.company}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <p>{work.description}</p>
+            <p>{work.DitemA}</p>
             <img class = "logo" src = {work.logo}></img>
             <br></br>
             <br></br>
