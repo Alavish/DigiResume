@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Anthony Christopher",
-    "occupation": "Student",
-    "description": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. ",
+    "occupation": "Digital Producer",
+    "DitemA": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. ",
     "image": "headShotPic.jpeg",
-    "bio": "I am a Whitworth University graduate, I have a degree in Computer Science and Business. I was a 1st team and 2nd team nominee All-Conference football athlete at the University. Im currently employed at 14Four where I am doing digital project management, software development and sales. I also run a web development company called “LavTech”. I really hope to bring just as much if not more to an organization as it brings to me.",
+    "bio": "With a degree in Computer Science and Business from Whitworth University, I've cultivated a multifaceted skill set. Currently, I'm immersed in digital project management, software development, and sales at 14Four, refining my expertise in these domains. I also created LavTech my own web development venture. During our recent conversation, we discussed my aptitude for problem-solving and knack for innovative solutions, which I believe would be valuable contributions to any team. I'm genuinely excited about the opportunity to leverage these skills in a collaborative environment for mutual growth and success.",
     "contactmessage": "Contact me!",
     "email": "lavtech66@gmail.com",
     "phone": "+1 253-330-4328",
     "address": {
-      "street": "North Spokane",
-      "city": "Spokane/Seattle",
-      "state": "WA",
-      "zip": "99218"
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
     "website": "https://www.thatsalavish.com/",
-    "resumedownload": "images/AnthonyChristopherResume.pdf",
+    "resumedownload": "images/AnthonyChristopherResume2023.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -35,12 +35,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "Below are my skills",
+    "skillmessage": "My Skills",
     "education": [
       {
         "school": "Whitworth Univeristy",
-        "degree": "Degree in Computer Science and Business",
-        "graduated": "Expected Graduation Year: 2022",
+        "degree": "Bachelors Degree in Computer Science and Business",
+        "graduated": "Graduation Year: 2022",
         "description": ""
       }
     ],
@@ -48,61 +48,108 @@
       {
         "company": "14Four",
         "title": "Digital Project Manager",
-        "years": "February 2023 - Present",
-        "description": "Managing digital projects with companies like Nike, Meta, Gatorade, Dick's, Monster Energy, and more. Scheduled meetings with clients, Created scopes of work for large clients, Sales, Developed AI-related projects to increase 14Four brand recognition ",
-        "logo":"images/14fourlogo.jpeg"
+        "years": "February 2023 - November 2023",
+        "DitemA":"- Managing digital projects with companies like Nike, Meta, Gatorade, Dick's,Monster Energy, and more scheduled meetings with clients, Created scopes of work for large clients, Sales, Developed AI-related projects to increase 14Four brand recognition ",
+        "DitemB":"- Front-End Development",
+        "DitemC":"- Developed AI-related projects to increase 14Four brand recognition",
+        "DitemD":"- Ensured that projects met technical and aesthetic requirements",
+        "DitemE":"- Developed a digital project plan that identiXed milestones, dependencies and resources needed to successfully complete the project",
+        "DitemF":"- Front-End Development",
+        "logo":"- Wrote UX/user stories, feature requirements, and use cases to ensure that product features met customer needs"
       },
       {
         "company": "14Four",
         "title": "Fullstack Developer/Project Management Intern",
         "years": "May 2022 - August 2022",
-        "description": "Communicated with a team of 20+, shipped websites/web ads from the bottom up, worked in React, GSAP, JavaScript, and front-end frameworks. Created 3 web banner ads with animations, created websites for big companies such as Nike, Gatorade, and Rock-star. Attended daily morning meetings, staged websites and web banners.",
+        "DitemA": "- Spearheaded the end-to-end development and deployment of diverse websites and web advertisements, showcasing adeptness in Nuxt, React, GSAP and JavaScript",
+        "DitemB":"- Produced captivating and dynamic web banner ads, leveraging animation techniques to enhance engagement and user experience",
+        "DitemC":"- Contributed substantially to the development of websites for prominent industry giants such as Nike, Gatorade, and Rock-star, showcasing expertise and adaptability in meeting corporate standards and requirements",
+        "DitemD":"",
+        "DitemE":"",
         "logo":"images/14fourlogo.jpeg"
       },
       {
         "company": "Drip7",
         "title": "Software Engineering Intern",
         "years": "Janaury 2022 - May 2022",
-        "description": "Tested the web application, found bugs and ways to improve the application, communicated with a team of 3 developers. Worked in JavaScript, React, and basic front-end languages. Shipped a V2 of a web application, communicated with clients for specifications, carried out quality assurance testing, created pop ups for the web application.",
+        "DitemA":"- Conducted comprehensive testing on the web application, meticulously identifying bugs and implementing improvements to elevate overall functionality and user experience",
+        "DitemB":"- Played a pivotal role in liaising with clients to gather and comprehend project specifications, ensuring alignment between client expectations and development objectives",
+        "DitemC":"- Executed comprehensive quality assurance measures, ensuring high standards of functionality, usability, and performance within the web application",
+        "DitemD":"",
+        "DitemE":"",
+        "DitemF":"",
         "logo":"images/drip7.jpeg"
       },
       {
-        "company": "Target",
-        "title": "Tech",
-        "years": "May 2020 - August 2021",
-        "description": "Cellular device activation, 5am truck unloads, customer service,casheering, processing online orders.",
-        "logo":"images/targetlogo.jpeg"
-      },
-      {
-        "company": "Whitworth Dornsife Department",
+        "company":"Whitworth Dornsife Department",
         "title": "Application/Web Developer",
         "years": "May 2021 - January 2022",
-        "description": "Developed a website for a local nonprofit in the community from the ground up, worked in React, JS, SQL, Django, communicated weekly with clients sending emails,creating graphics and doing marketing through facebook.",
+        "DitemA":"- Led the end-to-end development of a comprehensive website for a local nonprofit organization, demonstrating expertise in React, JavaScript, SQL, and Django to deliver a robust digital platform",
+        "DitemB":"- Produced compelling and visually engaging graphics, contributing to the brand identity and aesthetic appeal of the company's digital presence, and enhancing overall user experience and engagement",
+        "DitemC":"",
+        "DitemD":"",
+        "DitemE":"",
+        "DitemF":"",
         "logo":"images/whitworthlogo.png"
       },
       {
         "company": "Whitworth Computer Science Department",
         "title": "Grader",
         "years": "Sept 2021 - May 2022",
-        "description": "Whitworth University computer science and math department grader for CS1/CS2 class homework and exams.",
+        "DitemA": "-  Whitworth University Computer Science and Math department grader for CS1/CS2 class homework and exams.",
+        "DitemB":"",
+        "DitemC":"",
+        "DitemD":"",
+        "DitemE":"",
+        "DitemF":"",
         "logo":"images/whitworthlogo.png"
       },
       {
-        "company": "Krispy Kreme",
+        "company":"Target",
+        "title":"Tech",
+        "years":"May 2020 - August 2021",
+        "DitemA":"- Cellular device activation",
+        "DitemB":"- 5am truck unloads",
+        "DitemC":"- Customer Service,",
+        "DitemD":"- Casheering",
+        "DitemE":"- Processing online orders.",
+        "DitemF":"",
+        "logo":"images/targetlogo.jpeg"
+      },
+  
+      {
+        "company":"Krispy Kreme",
         "title": "General Sales",
         "years": "May 2016 - October 2017",
-        "description": "Developed skills in customer service, reported daily earnings in spreadsheet, developed skills in sales, worked in a fast pace environment.",
+        "DitemA":"- Developed skills in customer service",
+        "DitemB":"- Reported daily earnings in spreadsheet",
+        "DitemC":"- Developed skills in sales",
+        "DitemD":"- Worked in a fast pace environment",
+        "DitemE":"",
+        "DitemF":"",
         "logo": "images/krispykremelogo.png"
       }
     ],
     "skills": [
       {
-        "name": "HTML/CSS",
+        "name": "Stakeholder Management",
         "level": "80%"
       },
       {
-        "name": "Project Management",
+        "name": "Project Management/Digital Producting",
+        "level": "80%"
+      },
+      {
+        "name": "Verbal/Written Communication",
         "level": "85%"
+      },
+      {
+        "name": "UX/UI Stories",
+        "level": "60%"
+      },
+      {
+        "name": "Figma",
+        "level": "65%"
       },
       {
         "name": "Git",
@@ -138,7 +185,7 @@
         "title": "Digital Resume with Bootstrap",
         "category": "Digital resume based in bootstrap",
         "image": "projectOneResume.jpg",
-        "url": "https://achristopherdigi.netlify.app/"
+        "url": "www.thatsalavish.com"
       },
       {
         "title": "Spokane Valley Community Advocates Webstie",
@@ -168,7 +215,7 @@
         "title": "Gatorade Coming Soon Page",
         "category": "Coming soon page for Gatorade through a marketing agnecy ",
         "image": "GatoradeComingSoon.png",
-        "url": "https://github.com/Alavish/"
+        "url": "https://fueltomorrowcfb.gatorade.com/"
       }
     ]
   }
