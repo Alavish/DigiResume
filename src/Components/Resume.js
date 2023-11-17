@@ -19,7 +19,7 @@ class Resume extends Component {
             <p>{work.DitemC}</p>
             <p>{work.DitemD}</p>
             <p>{work.DitemE}</p>
-            <p>{work.Ditem}</p>
+            <p>{work.DitemF}</p>
             <img class = "logo" src = {work.logo}></img>
             <br></br>
             <br></br>
