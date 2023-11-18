@@ -4,7 +4,7 @@
     "occupation": "Digital Producer",
     "DitemA": "Determined and hardworking, I find pleasure in the proccess and being the best I can be. ",
     "image": "headShotPic.jpeg",
-    "bio": "With a degree in Computer Science and Business from Whitworth University, I've cultivated a multifaceted skill set. Currently, I'm immersed in digital project management, software development, and sales at 14Four, refining my expertise in these domains. I also created LavTech my own web development venture. During our recent conversation, we discussed my aptitude for problem-solving and knack for innovative solutions, which I believe would be valuable contributions to any team. I'm genuinely excited about the opportunity to leverage these skills in a collaborative environment for mutual growth and success.",
+    "bio": "With a degree in Computer Science and Business from Whitworth University, I've cultivated a multifaceted skill set. Currently, I'm immersed in digital project management, software development, and sales at 14Four, refining my expertise in these domains. I also created LavTech my own web development venture. During our recent conversation,I have an aptitude for problem-solving and knack for innovative solutions, which I believe would be valuable contributions to any team. I'm genuinely excited about the opportunity to leverage these skills in a collaborative environment for mutual growth and success.",
     "contactmessage": "Contact me!",
     "email": "lavtech66@gmail.com",
     "phone": "+1 253-330-4328",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://www.thatsalavish.com/",
-    "resumedownload": "images/AnthonyChristopherResume2023.pdf",
+    "resumedownload": "/images/AnthonyChristopherResume2023.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -108,11 +108,11 @@
         "company":"Target",
         "title":"Tech",
         "years":"May 2020 - August 2021",
-        "DitemA":"- Cellular device activation",
-        "DitemB":"- 5am truck unloads",
-        "DitemC":"- Customer Service,",
-        "DitemD":"- Casheering",
-        "DitemE":"- Processing online orders.",
+        "DitemA":"- Configuring and providing technical support for cellular devices, ensuring seamless integration into Target's inventory and sales systems.",
+        "DitemB":"- At 5 am, overseeing the timely delivery and integration of tech inventory, providing specialized customer service, managing transactions for tech purchases, efficiently fulfilling online orders for tech products, and configuring cellular devices to ensure seamless integration into Target's systems.",
+        "DitemC":"- Offering tech-focused support and guidance to customers, ensuring a positive in-store tech experience.",
+        "DitemD":"",
+        "DitemE":"",
         "DitemF":"",
         "logo":"images/targetlogo.jpeg"
       },
@@ -121,10 +121,10 @@
         "company":"Krispy Kreme",
         "title": "General Sales",
         "years": "May 2016 - October 2017",
-        "DitemA":"- Developed skills in customer service",
-        "DitemB":"- Reported daily earnings in spreadsheet",
-        "DitemC":"- Developed skills in sales",
-        "DitemD":"- Worked in a fast pace environment",
+        "DitemA":"- Cultivated strong customer service abilities, ensuring exceptional experiences for patrons at Krispy Kreme",
+        "DitemB":"- Maintained precise records of daily earnings using spreadsheets, contributing to financial tracking at Krispy Kreme.",
+        "DitemC":"- Enhanced sales proficiency by engaging customers effectively, contributing to sales growth at Krispy Kreme.",
+        "DitemD":"",
         "DitemE":"",
         "DitemF":"",
         "logo": "images/krispykremelogo.png"
@@ -176,46 +176,46 @@
   "portfolio": {
     "projects": [
       {
-        "title": "'One of One Sant' Shopify Site",
+        "title": "Gatorade Coming Soon Page - 07/2022",
+        "category": "Coming soon page for Gatorade through a marketing agnecy ",
+        "image": "GatoradeComingSoon.png",
+        "url": "https://fueltomorrowcfb.gatorade.com/"
+      },
+      {
+        "title": "'One of One Sant' Shopify Site - 09/23",
         "category": "Shopify,Ecommerce",
         "image": "shopifysite.png",
         "url": "https://oneofonesant.com"
       },
       {
-        "title": "Digital Resume with Bootstrap",
-        "category": "Digital resume based in bootstrap",
+        "title": "Digital Resume using REACT - 08/2021",
+        "category": "Digital resume using REACT",
         "image": "projectOneResume.jpg",
-        "url": "www.thatsalavish.com"
+        "url": "http://thatsalavish.com"
       },
       {
-        "title": "Spokane Valley Community Advocates Webstie",
+        "title": "Spokane Valley Community Advocates Webstie - 09/2020",
         "category": "Company site created for SVCA of Spokane",
         "image": "svcaProjectPic.jpg",
         "url": "https://s-v-c-a.org/"
       },
       {
-        "title": "Cesar Cipher Encryption Assembler",
+        "title": "Cesar Cipher Encryption Assembler - 10/2021",
         "category": "Cesar Cipher string encryption using assembler x86",
         "image": "cesarCipherProject.jpeg",
         "url": "https://github.com/Alavish/CesarCipherEncryption"
       },
       {
-        "title": "DBMS Bookstore Embedded SQL",
+        "title": "DBMS Bookstore Embedded SQL - 11/2022",
         "category": "DBMS Bookstore Queries created using embedded SQL and LINQ",
         "image": "dbmsSQLserver.jpeg",
         "url": "https://github.com/Alavish/DBMSBookstore"
       },
       {
-        "title": "Client Server Chatroom (Networks)",
+        "title": "Client Server Chatroom (Networks) - 04/2022",
         "category": "Chatroom with server and client,using sockets. ",
         "image": "ServerClientChatroom.jpeg",
         "url": "https://github.com/Alavish/clientServerChat"
-      },
-      {
-        "title": "Gatorade Coming Soon Page",
-        "category": "Coming soon page for Gatorade through a marketing agnecy ",
-        "image": "GatoradeComingSoon.png",
-        "url": "https://fueltomorrowcfb.gatorade.com/"
       }
     ]
   }
