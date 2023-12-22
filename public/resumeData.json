@@ -175,6 +175,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Ants Studios Website - 12/2023",
+        "category": "Website to launch my freelancing venture, developed in React.",
+        "image": "AntsStudios.png",
+        "url": "http://www.itsantsstudios.com"
+      },
+      {
         "title": "Gatorade Coming Soon Page - 07/2022",
         "category": "Coming soon page for Gatorade through a marketing agnecy ",
         "image": "GatoradeComingSoon.png",
