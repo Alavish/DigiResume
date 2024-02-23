@@ -46,6 +46,18 @@
     ],
     "work": [
       {
+        "company": "Spokane Hoopfest",
+        "title": "Technology & Software Coordinator",
+        "years": "February 2024 - Present",
+        "DitemA":"- Managing all technology and software",
+        "DitemB":"- Maintaining a backend with hundreds of thousands of entries and types of data",
+        "DitemC":"- Implemented security protcols within the company",
+        "DitemD":"- Handle all 4000 team registrations through a software I aided in the development of",
+        "DitemE":"",
+        "DitemF":"",
+        "logo":"images/hoopfestlogo.png"
+      },
+      {
         "company": "14Four",
         "title": "Digital Project Manager",
         "years": "February 2023 - November 2023",
@@ -179,6 +191,12 @@
         "category": "Website to launch my freelancing venture, developed in React.",
         "image": "AntsStudios.png",
         "url": "http://www.itsantsstudios.com"
+      },
+      {
+        "title": "Juneteenth/Black History Month Website - 06/2023",
+        "category": "A website for Spokane,WA that highlights black businesses,history and BSU's",
+        "image": "bhmsite.png",
+        "url": "https://bhmspokane.netlify.app/"
       },
       {
         "title": "Gatorade Coming Soon Page - 07/2022",
